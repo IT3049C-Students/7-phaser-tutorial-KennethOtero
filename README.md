@@ -9,8 +9,7 @@
 
 how many points out of 20 do you deserve on this assignment:
 
-I'd give myself 17/20 points for this assignment. The only reason is because the hosted GitHub page fails to load 
-any of the scripts, but it works fine on my local machine. Maybe a server issue?
+I'd give myself 19/20 points for this assignment. 
 
 ## Self-Reflection:
 
